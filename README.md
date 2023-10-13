@@ -1,10 +1,7 @@
 # Wear OS Stop Watch
-
---------------
 This is a simple timer app for Wear OS devices. It allows you to set a timer, pause and stop it.
 
-Application Features:
---------------------
+# Application Features:
 * Set a timer with a countdown in seconds, minutes, or hours.
 * Start, pause, and stop the timer.
 
